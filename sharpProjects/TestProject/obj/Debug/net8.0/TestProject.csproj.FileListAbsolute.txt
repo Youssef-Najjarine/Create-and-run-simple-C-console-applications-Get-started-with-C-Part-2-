@@ -7,6 +7,7 @@ C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-st
 C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
 C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
 C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
 C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
 C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
 C:\Users\youss\Desktop\repos\Create-and-run-simple-C-console-applications-Get-started-with-C-Part-2-\sharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
